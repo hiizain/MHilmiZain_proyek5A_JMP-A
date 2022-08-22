@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Pertemuan 12A</string>
+    <string name="tambah">tambah</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+</resources>
